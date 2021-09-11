@@ -1,5 +1,4 @@
 package panowicz.katherine;
-import animal.*;
 import animal.carnivore.*;
 import animal.herbivore.*;
 
