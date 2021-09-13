@@ -2,7 +2,7 @@ package animal;
 
 public interface Animal {
  
-    default String Speak() {
+    default String speak() {
         return "This animal does not speak";
     };
 }
